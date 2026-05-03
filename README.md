@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **kumaragastiya2@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Cow identification system using their Muzzle Patterns
+- 🔭 **I’m currently working on:** Cow identification system using their Muzzle Patterns using ML,DL & Computer Vision
 - 🌱 **I’m currently learning:** Data Science, ML, DL, SQL, python
 - 👯 **I’m looking to collaborate on:** Data Science, Machine learning, Deep learning, Python, SQL
 - 📫 **How to reach me:** kumaragastiya2@gmail.com
